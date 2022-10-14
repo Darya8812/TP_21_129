@@ -7,7 +7,7 @@ package javaapplication1;
 
 /**
  *
- * @author N7040
+ * @author I am
  */
 public class JavaApplication1 {
 
