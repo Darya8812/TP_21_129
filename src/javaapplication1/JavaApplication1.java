@@ -7,7 +7,7 @@ package javaapplication1;
 
 /**
  *
- * @author N7040
+ * @author I am
  */
 public class JavaApplication1 {
 //    1111
@@ -20,6 +20,7 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         ftufyifgiygiukgyif
     }
+    //master
 }
 
     
